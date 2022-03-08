@@ -1,0 +1,36 @@
+body{
+    background-color:springgreen;
+}
+
+.heading{
+    font-size: 50px;
+    color:orangered;
+    font-family: 'Dancing Script', cursive;
+}
+
+#head-2,label{
+    font-size: 22px;
+    color:magenta;
+    font-family: 'Pacifico', cursive;
+}
+
+.name_of_objects{
+    color:lime;
+    font-family: 'Indie Flower', cursive;
+}
+
+.btn-capture{
+    background-color:tomato;
+    color: black;
+    font-family: 'Great Vibes', cursive;
+}
+
+.btn-check{
+    color: rgb(0, 0, 0);
+    font-family: 'Great Vibes', cursive;
+}
+
+p{
+    color:royalblue;
+    font-family: 'Comforter', cursive;
+}
